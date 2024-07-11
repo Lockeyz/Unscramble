@@ -101,6 +101,7 @@ class GameFragment : Fragment() {
         Log.d("GameFragment", "GameFragment destroyed!")
     }
 
+    // Test
     /*
      * Creates and shows an AlertDialog with the final score.
      */
